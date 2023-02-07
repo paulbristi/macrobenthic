@@ -1,6 +1,6 @@
 # Potential macrobenthic species playing important role in medical applications.
 
-Macrobenthic species are a diverse group of organisms that inhabit the seabed and play important roles in the marine ecosystem. In recent years, researchers have discovered that many macrobenthic species are sources of proteins with medical applications. In this review, we will discuss the various macrobenthic species that have been found to contain proteins with medical applications and the potential benefits of these proteins.
+Macrobenthic species are a diverse group of organisms that inhabit the seabed and play important roles in the marine ecosystem. In recent years, researchers have discovered that many macrobenthic species are sources of proteins with medical applications. In this short article, we will discuss the various macrobenthic species that have been found to contain proteins with medical applications and the potential benefits of these proteins.
 
 
 ## Sea Urchins:
