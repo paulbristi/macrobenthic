@@ -24,7 +24,9 @@ Macrobenthic species are a diverse group of organisms that inhabit the seabed an
 - For example, a polypeptide isolated from the cyanobacterium Anabaena variabilis has been found to have potent antibacterial activity against a range of pathogenic bacteria, including Escherichia coli, Staphylococcus aureus, and Pseudomonas aeruginosa.
 
 ## Tunicates:
-Tunicates, also known as sea squirts, are a group of marine invertebrates that are found in many parts of the world. Their tunicin proteins have potential applications as wound dressings and for tissue regeneration. For example, tunicin has been found to promote the growth of fibroblasts and to stimulate the proliferation of keratinocytes, which are important for skin repair and regeneration.
+- Tunicates, also known as sea squirts, are a group of marine invertebrates that are found in many parts of the world. 
+- Their tunicin proteins have potential applications as wound dressings and for tissue regeneration. 
+- For example, tunicin has been found to promote the growth of fibroblasts and to stimulate the proliferation of keratinocytes, which are important for skin repair and regeneration.
 
 ## Sea Cucumbers:
 - Sea cucumbers are a type of echinoderm that are widely distributed in the world's oceans. 
